@@ -2,10 +2,10 @@
 
 
 
-               const Luis = {
+             const Luis = {
 
-                     Name: 'Ahnmet',
-                     City: 'ankara',
-                     Age: '17',
+                  Name: 'Ahnmet',
+                  City: 'ankara',
+                    Age: '17',
                      FavoriteLanguage: "Pyhton-JavaScript-C++",
                       },
